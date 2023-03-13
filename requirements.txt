@@ -1,0 +1,6 @@
+discord
+aysncio
+colorama
+json
+random
+os
